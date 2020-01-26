@@ -12,4 +12,4 @@ Repo of the Deep Learning Seminar WS19/20
 | PPO in OpenAi Gym | David Weiler | Dorer | [Notebook](https://github.com/dav-92/PPO/blob/master/PPO_OpenAI_Gym.ipynb) | [PDF](https://github.com/dav-92/PPO/blob/master/PPO_OpenAI_Gym_Slides.pdf) |
 | WaveNet | Jonas Zimmer | Keuper | [Notebook](https://github.com/JonasZimmer1994/deeplearning_wavenet/blob/master/wavenet_pytorch_abgabe.ipynb) | [PDF](https://github.com/JonasZimmer1994/deeplearning_wavenet/blob/master/WaveNet_Presentation.pdf) |
 | Atari Rainbow | Aylin Haskioglu | Dorer | [Notebook](https://github.com/AyHaski/DL_AtariRainbow/blob/master/Anyrl.ipynb) | [PDF](https://github.com/AyHaski/DL_AtariRainbow/blob/master/DL_AtariRainbow.pdf) |
-
+| Dropout | Jonas Ziegler | Keuper | [Notebook](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Alexnet%20Cifar100%20Dropout.ipynb) | [PDF](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Dropout.pdf) |
