@@ -9,4 +9,8 @@ Repo of the Deep Learning Seminar WS19/20
 | rlpyt | Florian Raab | Dorer | [Notebook](https://colab.research.google.com/drive/1wdh3ipECkkgh32BjTMS9cUKfljaa-AzO) | [PDF](https://www.dropbox.com/s/fxy13t43e4lnw4s/Pr%C3%A4sentation.pdf?raw=1) | 
 | Data Augmentation | Jonas Bräuer | Keuper | [Notebook](https://github.com/Hexaa/dataaugmentation/blob/master/data_augmentation_on_colab.ipynb) | [PDF](https://github.com/Hexaa/dataaugmentation/blob/master/data_augmentation_jonas_braeuer_final.pdf) | 
 | DCGAN | Duy Nguyen | Keuper | [Notebook](https://github.com/dnguyen2211/DCGAN/blob/master/DL_Seminar_DCGAN_Duy_Nguyen.ipynb) | [PDF](https://github.com/dnguyen2211/DCGAN/blob/master/DCGAN_dnguyen.pdf) |
+| Stochastic Gradient Descent Optimization | Dennis Bystrow | Keuper | [Notebook](https://github.com/Dens49/seminar-deeplearning-sgd/blob/master/notebook_main.ipynb) | [PDF](https://github.com/Dens49/seminar-deeplearning-sgd/blob/master/presentation/sgd_dennis_bystrow.pdf) |
+| PPO in OpenAi Gym | David Weiler | Dorer | [Notebook](https://github.com/dav-92/PPO/blob/master/PPO_OpenAI_Gym.ipynb) | [PDF](https://github.com/dav-92/PPO/blob/master/PPO_OpenAI_Gym_Slides.pdf) |
+| WaveNet | Jonas Zimmer | Keuper | [Notebook](https://github.com/JonasZimmer1994/deeplearning_wavenet/blob/master/wavenet_pytorch_abgabe.ipynb) | [PDF](https://github.com/JonasZimmer1994/deeplearning_wavenet/blob/master/WaveNet_Presentation.pdf) |
+| Atari Rainbow | Aylin Haskioglu | Dorer | [Notebook](https://github.com/AyHaski/DL_AtariRainbow/blob/master/Anyrl.ipynb) | [PDF](https://github.com/AyHaski/DL_AtariRainbow/blob/master/DL_AtariRainbow.pdf) |
 
