@@ -18,3 +18,5 @@ Repo of the Deep Learning Seminar WS19/20
 | TD3 in OpenAI Gym | Martin Baur | Dorer | [Notebook](https://github.com/mrmarthy/DLSeminar/blob/master/PendulumTD3.ipynb) | [PDF](https://github.com/mrmarthy/DLSeminar/blob/master/DRFL-TD3.pdf) | 
 | Deep Facial Expression Recognition: A Survey | Febin Sebastian E | Keuper | [Notebook](https://github.com/febinsebastian/Deep_Learning_Seminar_WS19_20/blob/master/DeepFER.ipynb) | [PDF](https://github.com/febinsebastian/Deep_Learning_Seminar_WS19_20/blob/master/1804.08348.pdf) | 
 | Dropout | Jonas Ziegler | Keuper | [Notebook](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Alexnet%20Cifar100%20Dropout.ipynb) | [PDF](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Dropout.pdf) |
+| NST | Ranjusha Karatt | Keuper | [Notebook](https://github.com/rkaratt/NST/blob/master/Copy_of_NST.ipynb) | [PDF] (https://github.com/rkaratt/NST/blob/master/NST.pdf) |
+
