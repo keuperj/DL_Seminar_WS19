@@ -5,6 +5,7 @@ Repo of the Deep Learning Seminar WS19/20
 | Topic       | Student           | Supervisor | Link to Notebook  |  Slides |
 | ------------- |:-------------:| ------------:| -------------------------:| ------------:|
 | DeepLab | Johannes Klamer | Keuper | [Notebook](https://github.com/KlamJ/DeepLab_V3_KL/blob/master/Klamer_U_Net.ipynb) | [PDF](https://github.com/KlamJ/DeepLab_V3_KL/blob/master/DeepLab_Kl.pdf) |
+| U-Net | Philip Wolschon | Keuper | [Notebook](https://github.com/pwolscho/unet/blob/master/u_net_final.ipynb) | [PDF](https://github.com/pwolscho/unet/blob/master/U-Net%20-%20Philip%20Wolschon.pdf) |
 | Autoencoder | Manuel Reinacher | Keuper | [Notebook](https://github.com/manureini/Autoencoder/blob/master/Autoencoder.py) | [PDF](https://github.com/manureini/Autoencoder/blob/master/Autoencoder.pdf) |
 | rlpyt | Florian Raab | Dorer | [Notebook](https://colab.research.google.com/drive/1wdh3ipECkkgh32BjTMS9cUKfljaa-AzO) | [PDF](https://www.dropbox.com/s/fxy13t43e4lnw4s/Pr%C3%A4sentation.pdf?raw=1) |
 | Data Augmentation | Jonas Bräuer | Keuper | [Notebook](https://github.com/Hexaa/dataaugmentation/blob/master/data_augmentation_on_colab.ipynb) | [PDF](https://github.com/Hexaa/dataaugmentation/blob/master/data_augmentation_jonas_braeuer_final.pdf) |
@@ -19,3 +20,5 @@ Repo of the Deep Learning Seminar WS19/20
 | Deep Facial Expression Recognition: A Survey | Febin Sebastian E | Keuper | [Notebook](https://github.com/febinsebastian/Deep_Learning_Seminar_WS19_20/blob/master/DeepFER.ipynb) | [PDF](https://github.com/febinsebastian/Deep_Learning_Seminar_WS19_20/blob/master/1804.08348.pdf) | 
 | Dropout | Jonas Ziegler | Keuper | [Notebook](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Alexnet%20Cifar100%20Dropout.ipynb) | [PDF](https://github.com/iceboy910447/ALEXNET-CIFAR10/blob/master/Dropout.pdf) |
 | ResNet und DenseNet | Alexander Bierenstiel | Dorer | [Notebook](https://github.com/abieren/DL-Seminar-ResNet-DenseNet/blob/master/Colab-Notebook-ResNet-DenseNet.ipynb) | [PDF](https://github.com/abieren/DL-Seminar-ResNet-DenseNet/blob/master/docs/presentation/presentation%20-%20improved%20and%20extra%20slides.pdf) |
+| YOLO | Valentin Kruck | Dorer | [Notebook](https://github.com/aquila357/DL-Seminar/blob/master/DL_Seminar_Object_Detection_with_YOLO.ipynb) | [PDF](https://github.com/aquila357/DL-Seminar/blob/master/YOLO_V3.pdf) |
+| NST | Ranjusha Karatt | Keuper | [Notebook](https://github.com/rkaratt/NST/blob/master/Copy_of_NST.ipynb) | [PDF] (https://github.com/rkaratt/NST/blob/master/NST.pdf) |
